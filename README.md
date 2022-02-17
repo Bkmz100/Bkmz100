@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning C++
 - 💬 Ask me anything
 - 📫 How to reach me:
-  Email: [bkmz99@ya.ru](mailto:bkmz99@ya.ru)
-  Telegram: [@EtoZheBkmz](https://t.me/EtoZheBkmz)
+Email: [bkmz99@ya.ru](mailto:bkmz99@ya.ru)
+Telegram: [@EtoZheBkmz](https://t.me/EtoZheBkmz)
 
 <!--
 **Bkmz100/Bkmz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
