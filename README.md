@@ -1,8 +1,5 @@
 ### Hi there 👋, I am Ilya
 
-Email: [bkmz99@ya.ru](mailto:bkmz99@ya.ru)
-Telegram: [@EtoZheBkmz](https://t.me/EtoZheBkmz)
-
 - 🔭 I’m currently working on Transport Catalogue
 - 🌱 I’m currently learning C++
 - 💬 Ask me anything
