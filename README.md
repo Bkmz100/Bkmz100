@@ -7,6 +7,8 @@
 Email: [bkmz99@ya.ru](mailto:bkmz99@ya.ru)
 Telegram: [@EtoZheBkmz](https://t.me/EtoZheBkmz)
 
+[![codewars](https://www.codewars.com/users/Bkmz99/badges/small)](https://www.codewars.com/users/Bkmz99)
+
 My Projects:
 -
 - **[SimpleVector](https://github.com/Bkmz100/SimpleVector)** — Container, a simplified analogue of std::vector.
