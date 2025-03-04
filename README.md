@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ilya
 
-- 🔭 I’m currently working on Transport Catalogue
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on Study Result Mail Sender
+- 🌱 I’m currently learning Python
 - 💬 Ask me anything
 - 📫 How to reach me:
 Email: [bkmz99@ya.ru](mailto:bkmz99@ya.ru)
